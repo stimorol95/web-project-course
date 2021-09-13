@@ -2,19 +2,14 @@
   "name": "webpack",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "webpack.config.js",
   "scripts": {
     "dev": "webpack --mode=development",
     "build": "webpack --mode=development",
     "serve": "webpack serve --mode=development"
   },
-  "repository": {
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  
-  
   "devDependencies": {
     "css-loader": "^6.2.0",
     "file-loader": "^6.2.0",
